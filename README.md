@@ -1,10 +1,10 @@
 ### Hi there 👋
 
- **Name**: Gustavo Herold
- **Age**:20
- **Living in**: Maringá - PR, Brazil
- **University**: ...
- **Stack**: PHP - Laravel
+ * **Name**: Gustavo Herold
+ * **Age**:20
+ * **Living in**: Maringá - PR, Brazil
+ * **University**: ...
+ * **Stack**: PHP - Laravel
 
 <div>
     <a target='_blank' href="https://twitch.tv/zuko7">
