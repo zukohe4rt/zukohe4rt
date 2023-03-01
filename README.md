@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  * **Name**: Gustavo Herold
- * **Age**:20
+ * **Age**: 20
  * **Living in**: Maringá - PR, Brazil
  * **University**: ...
  * **Stack**: PHP - Laravel
