@@ -3,7 +3,7 @@
  * **Name**: Gustavo Herold
  * **Age**: 20
  * **Living in**: Maringá - PR, Brazil
- * **University**: ads-pucpr
+ * **University**: PUCPR
  * **Stack**: ...
 
 <div>
