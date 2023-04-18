@@ -3,8 +3,8 @@
  * **Name**: Gustavo Herold
  * **Age**: 20
  * **Living in**: Maringá - PR, Brazil
- * **University**: ...
- * **Stack**: PHP - Laravel
+ * **University**: ads-pucpr
+ * **Stack**: ...
 
 <div>
     <a target='_blank' href="https://twitch.tv/zuko7">
