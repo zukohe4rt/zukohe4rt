@@ -4,7 +4,7 @@
  * **Age**: 20
  * **Living in**: São Paulo - SP, Brazil
  * **University**: PUCPR
- * **Stack**: C#, JAVA e PHP
+ * **Stack**: C#, Python, GO, JavaScript e PHP
 
 <div>
     <a target='_blank' href="https://twitch.tv/zuko7">
