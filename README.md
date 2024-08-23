@@ -3,7 +3,7 @@
  * **Name**: Gustavo Herold
  * **Living in**: São Paulo - SP, Brazil
  * **University**: PUCPR
- * **Stack**: C#, Python, GO, JavaScript e PHP
+ * **Stack**: C#, Python, GO, JavaScript/TypeScript e PHP
 
 <div>
     <a target='_blank' href="https://twitch.tv/zuko7">
