@@ -1,7 +1,6 @@
 ### Hi there 👋
 
  * **Name**: Gustavo Herold
- * **Age**: 20
  * **Living in**: São Paulo - SP, Brazil
  * **University**: PUCPR
  * **Stack**: C#, Python, GO, JavaScript e PHP
